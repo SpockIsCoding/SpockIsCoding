@@ -8,6 +8,9 @@
 >I am an accomplished Applications Specialist with an expertise in Cisco (Network Engineering), Linux, Kubernetes, Rancher, Python, and Git, among other technologies.
 
 
+
+
+
 <!--
 **SpockIsCoding/SpockIsCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
