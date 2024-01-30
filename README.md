@@ -1,8 +1,11 @@
-### Hello everyone, I am Valdir Lima (aka Spock Nimoy). It is my pleasure that you've visited my profile.
+## Hello everyone, I am Valdir Lima (aka Spock Nimoy). 
+
+## It is my pleasure that you've visited my profile.
 
 
-#### About me.
+### About me.
 
+I am an experienced Applications Specialist with a strong background in Linux, Kubernetes, and Rancher. Currently, I am part of the GlobalWeb team at the Tribunal de Contas da União since March 2023, where I contribute to the seamless operation of critical systems.
 <!--
 **SpockIsCoding/SpockIsCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
