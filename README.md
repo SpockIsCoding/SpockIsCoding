@@ -1,4 +1,4 @@
-## Hello everyone, I am Valdir Lima (aka Spock Nimoy). 
+![](img/github-header-image.png)
 
 ## It is my pleasure that you've visited my profile.
 
