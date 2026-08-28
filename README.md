@@ -1,21 +1,13 @@
-![](img/github-header-image.png)
+
 
 ## It is my pleasure that you've visited my profile.
 
 
 ### About me.
 
-> #### I am an accomplished Applications Specialist with an expertise in Cisco (Network Engineering), Linux, Kubernetes, Rancher, Python, and Git, among other technologies.
 
 
 ___
-### How to reach me.
-
-<div>
-
-<a href = "mailto:valdir.cruz@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/jose-n-2b133534" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
 
 ### Tools and Technologies
 
